@@ -17,8 +17,6 @@ public decimal Quantity2 { get; set; }
 //Second Commit
 public decimal Quality1 { get; set; }
 public decimal Quality2 { get; set; }
-//Third Commit
-public decimal Volume1 { get; set; }
-public decimal Volume2 { get; set; }
+
     }
 }
